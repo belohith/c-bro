@@ -1,3 +1,3 @@
 # C Language Full Course
 
-Revising C Language.
+Revising C Language from Bro Code Tutorial.
