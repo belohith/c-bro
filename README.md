@@ -2,4 +2,4 @@
 
 Revising C Language from Bro Code Tutorial.
 
-Notes contain some theory that I'd like to remember.
+Notes contain some theory.
