@@ -2,4 +2,4 @@
 
 Revising C Language from Bro Code Tutorial.
 
-Notes contain some important theory.
+Notes contain important theory.
